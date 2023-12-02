@@ -3,4 +3,4 @@ A collection of R scripts, models and ideas for applying Bayesian approaches to 
 
 Table of Contents
 
-(TBD)
+nba_player_points_mcmc: a tutorial for running MCMC simulations with rstan for NBA player points
